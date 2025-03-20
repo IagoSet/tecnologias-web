@@ -220,4 +220,4 @@ function PagePerfil() {
   document.title = "Perfil - Aluno Online";
 }
 
-<link rel="stylesheet" href="/src/estilos.css"></link>;
+
